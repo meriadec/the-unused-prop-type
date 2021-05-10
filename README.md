@@ -1,3 +1,5 @@
+# EDIT: the problem is now fixed, it now correctly reports the problem in the `not-working` folder (keeping it there for tracability)
+
 # the-unused-prop-type problem
 
 *purpose* of this repo is to illustrate a problem I have with specific react + typescript + eslint configuration.
